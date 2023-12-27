@@ -1,0 +1,4 @@
+1. Django should be installed.
+2. first of all run migrations commands.
+3. change the host email address and password with your credentials in settings.py file
+4. run the development server..
