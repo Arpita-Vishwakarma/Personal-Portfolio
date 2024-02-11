@@ -5,4 +5,4 @@ HTML, CSS, and JavaScript collectively form the frontend of the portfolio, offer
 Furthermore, the utilization of the SMTP protocol enables seamless and secure email communication within the portfolio. This functionality facilitates user interactions, such as contact forms or inquiries, ensuring reliable message delivery and enhancing user engagement and communication.
 
 Link of Portfolio:
-https://arpita93.pythonanywhere.com
+https://arpita22.pythonanywhere.com
